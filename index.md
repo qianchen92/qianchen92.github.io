@@ -4,22 +4,29 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://qianchen92.github.io/ID.JPG" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Chen Qian (钱宸)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am currently a researcher (tenure-track professor) at Shandong University, China.
+
+From 2019 to 2022, I worked as a Post-Doc researcher at NTNU (Norway) in the group of Jiaxin Pan and Kristian Gjøsteen. In October 2019, I obtained my Ph.D. from Univ Rennes 1 (France) under the supervision of Benoît Libert, Pierre-Alain Fouque and Adeline Roux-Langlois.
+
+Email: chen.qian_AT_sdu.edu.cn
+
+
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **Nov 2022 - current:** Shandong University (Researcher)
+- **Oct 2019 - Oct 2022:** NTNU, Norway (Post-Doc)
+- **Sep 2016 - Sep 2019:** University of Rennes/ ENS Lyon (Ph.D supervised by Benoît Libert, Pierre-Alain Fouque, and Adeline Roux-Langlois)
+- **Sep 2014 - Sep 2016:** University of Paris/ ENS Rennes (MPRI master program, co-affiliated by ENS, Ecole Polytechnique, University of Paris)
+- **Sep 2013 - Sep 2014:** University of Rennes/ ENS Rennes (Bachelor in Mathematics and Computer Science)
+- **Sep 2011 - Sep 2013:** Lycée du Parc (MPSI/MP* classes préparatoires aux grandes écoles (CPGE) ('Higher school preparatory classes'))
+- **Sep 2008 - Sep 2011:** Nanjing Foreign Language School
 
 <br>
 
@@ -27,22 +34,9 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- Cryptography
+- Complexity Theory
+- Theoretical Computer Science
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+I am interested in all theoretical and practical cryptography in general.
 
-<br>
-
----
-
-## News and Updates
-
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
