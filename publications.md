@@ -4,32 +4,31 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 28th Sep 2023&nbsp; 
 
-## Conference Paper
+## Papers
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
-
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
-
-## Working Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>MDPI Sensors Journal (IF: 3.847, JCR Q2). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
-
-  <br>
-
----
-
-## Undergraduate Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to publish a research paper to Internet of Things Journal (IoTJ 2024)
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Thesis in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+- **Generic Constructions of Master-Key KDM Secure Attribute-based Encryption** \
+  with Jiaxin Pan, Benedikt Wagner (DCC 2023)
+- **A Generic Transform from Multi-Round Interactive Proof to NIZK** ([Full version](https://eprint.iacr.org/2023/334))\
+  with Pierre-Alain Fouque, Adela Georgescu, Adeline Roux-Langlois, Weiqiang Wen (PKC 2023)
+- **Signed (Group) Diffie–Hellman Key Exchange with Tight Security** ([Full version](https://link.springer.com/article/10.1007/s00145-022-09438-y))\
+  with Jiaxin Pan and Magnus Ringerud (Journal of Cryptology 2022)
+- **Transferable E-Cash: A Cleaner Model and the First Practical Instantiation** ([Full version](https://eprint.iacr.org/2020/1400))\
+  with Balthazar Bauer and  Georg Fuchsbauer (PKC 2021)
+- **Signed Diffie-Hellman Key Exchange with Tight Security** ([Full version](https://eprint.iacr.org/2021/607))  \
+  with Jiaxin Pan and Magnus Ringerud (CT-RSA 2021)
+- **Lossy Algebraic Filters with Short Tags**  ([Full version](https://hal.inria.fr/hal-02124968))\
+  with Benoît Libert (appeared at PKC 2019)
+- **Logarithmic-Size Ring Signatures with Tight Security from the DDH Assumption**  ([Full version](MyPapers/tight-ring-sig-full-version.pdf))\
+  with Benoît Libert and Thomas Peters (ESORICS 2018)
+- **Universal Witness Signatures**  ([Full version](https://hal.archives-ouvertes.fr/hal-01814279/))\
+  with Mehdi Tibouchi and Rémi Géraud (IWSEC 2018)
+- **Structure-Preserving Chosen-Ciphertext Security with Shorter Verifiable Ciphertexts** ([Full version](MyPapers/SP-CCA-PKC17_full-version.pdf)) \
+  with Benoît Libert and Thomas Peters (PKC 2017)
+- **Fault Attacks on Efficient Pairing Implementations**  ([Conference version](https://dl.acm.org/doi/10.1145/2897845.2897907))\
+  with Pierre-Alain Fouque (AsiaCCS 2016)
+- **Binary Elligator Squared**  ([Full version](https://eprint.iacr.org/2014/486))\
+  with Diego F Aranha, Pierre-Alain Fouque, Mehdi Tibouchi, Jean-Christophe Zapalowicz (SAC 2014)
 
   <br>
