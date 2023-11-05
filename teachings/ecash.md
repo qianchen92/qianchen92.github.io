@@ -12,36 +12,11 @@ title: Teaching
   哈希函数与零知识证明([课件](/teachings/ecash-slides/ECash2-Crypto1.pdf))\
   数字签名([课件](/teachings/ecash-slides/ECash3-Crypto2.pdf))
 
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
 
+- **实验课**\
+  1. 哈希函数与零知识证明
+  
+  实验说明
+  椭圆曲线[bn256.py](/teachings/lab-files/bn256.py)库
 
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+<br>
