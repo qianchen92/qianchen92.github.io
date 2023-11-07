@@ -19,38 +19,27 @@ title: Teaching
   实验说明[文档](/teachings/lab-files/ECash_Lab1.pdf)\
   椭圆曲线库[ecc-pycrypto.zip](/teachings/lab-files/ecc-pycrypto-master.zip)
 
-- **参考资料**\
+- **参考资料**
 
-这里列出与本课程相关的一些文献和书籍：\
+这里列出与本课程相关的一些文献和书籍：
 
-数字货币历史部分：\
+数字货币历史部分：
+1. 区块链技术驱动金融 [豆瓣链接](https://book.douban.com/subject/26860970/)
 
-区块链技术驱动金融 [豆瓣链接](https://book.douban.com/subject/26860970/)\
+密码学基础部分：
+1. Introduction to Modern Cryptography\
+  by Jonathan Katz, Yehuda Lindell
 
-密码学基础部分：\
-
-Introduction to Modern Cryptography\
-
-by Jonathan Katz, Yehuda Lindell
-
-数字货币部分：\
-
-Blind Signatures for Untraceable Payments (Crypto'83)\
-
-by David Chaum\
-
-Untraceable electronic cash (Crypto'88)\
-
-by David Chaum, Amos Fiat, Moni Naor\
-
-Transferable E-Cash: A Cleaner Model and the First Practical Instantiation (PKC'21)\
-
-by Balthazar Bauer, Georg Fuchsbauer, Chen Qian\
+数字货币部分：
+1. Blind Signatures for Untraceable Payments (Crypto'83)\
+  by David Chaum
+2. Untraceable electronic cash (Crypto'88)\
+  by David Chaum, Amos Fiat, Moni Naor
+3. Transferable E-Cash: A Cleaner Model and the First Practical Instantiation (PKC'21)\
+  by Balthazar Bauer, Georg Fuchsbauer, Chen Qian
 
 区块链以及共识协议部分：
-
-Foundations of distributed consensus and blockchains [作者非正式版链接](http://elaineshi.com/docs/blockchain-book.pdf)\
-
-by Elaine Shi\
+1. Foundations of distributed consensus and blockchains [作者非正式版链接](http://elaineshi.com/docs/blockchain-book.pdf)\
+  by Elaine Shi
 
 <br>
