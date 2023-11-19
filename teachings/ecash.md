@@ -22,6 +22,9 @@ title: Teaching
   实验说明[文档](/teachings/lab-files/ECash_Lab1.pdf)\
   椭圆曲线库[ecc-pycrypto.zip](/teachings/lab-files/ecc-pycrypto-master.zip)
 
+  2. 数字签名与加密
+  实验说明[文档](/teachings/lab-files/ECash_Lab2.pdf)
+
 - **参考资料**
 
 这里列出与本课程相关的一些文献和书籍：

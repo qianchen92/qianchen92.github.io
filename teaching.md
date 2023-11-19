@@ -23,14 +23,4 @@ Lastest Update: 1st Nov 2023&nbsp;
   <br>
 
 
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
 
