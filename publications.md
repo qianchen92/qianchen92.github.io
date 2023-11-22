@@ -8,7 +8,7 @@ Lastest Update: 28th Sep 2023&nbsp;
 
 ## Papers
 
-- **Generic Constructions of Master-Key KDM Secure Attribute-based Encryption** \
+- **Generic Constructions of Master-Key KDM Secure Attribute-based Encryption**([Journal Version](https://link.springer.com/article/10.1007/s10623-023-01296-4)) \
   with Jiaxin Pan, Benedikt Wagner (DCC 2023)
 - **A Generic Transform from Multi-Round Interactive Proof to NIZK** ([Full version](https://eprint.iacr.org/2023/334))\
   with Pierre-Alain Fouque, Adela Georgescu, Adeline Roux-Langlois, Weiqiang Wen (PKC 2023)
@@ -20,11 +20,11 @@ Lastest Update: 28th Sep 2023&nbsp;
   with Jiaxin Pan and Magnus Ringerud (CT-RSA 2021)
 - **Lossy Algebraic Filters with Short Tags**  ([Full version](https://hal.inria.fr/hal-02124968))\
   with Benoît Libert (appeared at PKC 2019)
-- **Logarithmic-Size Ring Signatures with Tight Security from the DDH Assumption**  ([Full version](MyPapers/tight-ring-sig-full-version.pdf))\
+- **Logarithmic-Size Ring Signatures with Tight Security from the DDH Assumption**  ([Full version](./MyPapers/tight-ring-sig-full-version.pdf))\
   with Benoît Libert and Thomas Peters (ESORICS 2018)
 - **Universal Witness Signatures**  ([Full version](https://hal.archives-ouvertes.fr/hal-01814279/))\
   with Mehdi Tibouchi and Rémi Géraud (IWSEC 2018)
-- **Structure-Preserving Chosen-Ciphertext Security with Shorter Verifiable Ciphertexts** ([Full version](MyPapers/SP-CCA-PKC17_full-version.pdf)) \
+- **Structure-Preserving Chosen-Ciphertext Security with Shorter Verifiable Ciphertexts** ([Full version](./MyPapers/SP-CCA-PKC17_full-version.pdf)) \
   with Benoît Libert and Thomas Peters (PKC 2017)
 - **Fault Attacks on Efficient Pairing Implementations**  ([Conference version](https://dl.acm.org/doi/10.1145/2897845.2897907))\
   with Pierre-Alain Fouque (AsiaCCS 2016)
