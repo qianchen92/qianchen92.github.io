@@ -17,7 +17,8 @@ title: Teaching
   可传递数字货币([课件](/teachings/ecash-slides/ECash6-TECash.pdf))
  - **区块链与共识协议** \
   拜占庭将军问题与Dolev-Strong协议([课件](/teachings/ecash-slides/ECash7-blockchain.pdf))\
-  无签名共识协议的上界与下界([课件](/teachings/ecash-slides/ECash8-blockchain2.pdf))
+  无签名共识协议的上界与下界([课件](/teachings/ecash-slides/ECash8-blockchain2.pdf))\
+  共识协议与简单的区块链([课件](/teachings/ecash-slides/ECash9-blockchain3.pdf))
 
 
 - **实验课**\
