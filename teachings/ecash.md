@@ -29,6 +29,8 @@ title: Teaching
   实验说明[文档](/teachings/lab-files/ECash_Lab2.pdf)
   3. 中心化数字货币与共识协议\
   实验说明[文档](/teachings/lab-files/ECash_Lab3.pdf)
+  4. 共识协议与区块链\
+  实验说明[文档](/teachings/lab-files/ECash_Lab4.pdf)
 
 - **参考资料**
 
