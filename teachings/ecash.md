@@ -19,6 +19,7 @@ title: Teaching
   拜占庭将军问题与Dolev-Strong协议([课件](/teachings/ecash-slides/ECash7-blockchain.pdf))\
   无签名共识协议的上界与下界([课件](/teachings/ecash-slides/ECash8-blockchain2.pdf))\
   共识协议与简单的区块链([课件](/teachings/ecash-slides/ECash9-blockchain3.pdf))
+  同步与半同步模型中的区块链([课件](/teachings/ecash-slides/ECash10-blockchain4.pdf))
 
 
 - **实验课**\
