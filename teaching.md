@@ -9,7 +9,7 @@ Lastest Update: 1st Nov 2023&nbsp;
 ## Lectures
 
 - **E-Cash and Blockchain** \
-  Shandong University, Autumn 2023-2024, ([details])
+  Shandong University, Autumn 2023-2024, ([details](/teachings/ecash2023.md))
   
   <br>
   <br>
