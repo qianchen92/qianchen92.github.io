@@ -1,5 +1,5 @@
 layout: page
-permalink: /teaching/ecash.html
+permalink: /teaching/ecash2024.html
 title: Teaching
 ---
 
