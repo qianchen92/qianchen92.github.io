@@ -1,3 +1,4 @@
+---
 layout: page
 permalink: /teaching/ecash2024.html
 title: Teaching
