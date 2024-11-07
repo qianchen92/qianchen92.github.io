@@ -16,7 +16,7 @@ title: Teaching
 
 - **实验课**\
   1. 哈希函数与零知识证明\
-  实验说明[文档](/teachings/lab-files/2024-ECashBlockchain-Lab1%20.pdf)\
+  实验说明[文档](/teachings/lab-files/2024-ECashBlockchain-Lab1.pdf)\
   椭圆曲线库[ecc-pycrypto.zip](/teachings/lab-files/ecc-pycrypto-master.zip)
 
 - **参考资料**
