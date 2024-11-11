@@ -12,8 +12,8 @@ title: Teaching
   哈希函数与零知识证明([课件](/teachings/ecash-slides/ECash2-Crypto1.pdf))\
   数字签名([课件](/teachings/ecash-slides/ECash3-Crypto2.pdf))\
   盲签名与加密算法([课件](/teachings/ecash-slides/ECash4-Crypto3.pdf)) (补充：Naor-Yung通用转化的CCA1证明 [pdf](/teachings/notes/ECash_note1_Naor_Yung.pdf))
-
-
+ - **中心化数字货币** \
+  中心化数字货币构造([课件](/teachings/ecash-slides/ECash5-ECash.pdf))\
 - **实验课**\
   1. 哈希函数与零知识证明\
   实验说明[文档](/teachings/lab-files/2024-ECashBlockchain-Lab1.pdf)\
