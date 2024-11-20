@@ -15,10 +15,14 @@ title: Teaching
  - **中心化数字货币** \
   中心化数字货币构造([课件](/teachings/ecash-slides/ECash5-ECash.pdf))\
   可传递数字货币([课件](/teachings/ecash-slides/ECash6-TECash.pdf))
+
+
 - **实验课**\
   1. 哈希函数与零知识证明\
   实验说明[文档](/teachings/lab-files/2024-ECashBlockchain-Lab1.pdf)\
   椭圆曲线库[ecc-pycrypto.zip](/teachings/lab-files/ecc-pycrypto-master.zip)
+  2. 数字签名与加密\
+  实验说明[文档](/teachings/lab-files/2024-ECash_Lab2.pdf)
 
 - **参考资料**
 
