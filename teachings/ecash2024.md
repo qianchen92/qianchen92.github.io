@@ -26,6 +26,8 @@ title: Teaching
   椭圆曲线库[ecc-pycrypto.zip](/teachings/lab-files/ecc-pycrypto-master.zip)
   2. 数字签名与加密\
   实验说明[文档](/teachings/lab-files/2024-ECash_Lab2.pdf)
+  3. 中心化数字货币与共识协议\
+  实验说明[文档](/teachings/lab-files/2024-ECash_Lab3.pdf)
 
 - **参考资料**
 
