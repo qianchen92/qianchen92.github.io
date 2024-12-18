@@ -18,6 +18,7 @@ title: Teaching
 - **区块链与共识协议** \
   拜占庭将军问题与Dolev-Strong协议([课件](/teachings/ecash-slides/ECash7-blockchain.pdf))\
   无签名共识协议的上界与下界([课件](/teachings/ecash-slides/ECash8-blockchain2.pdf))\
+  同步与半同步模型中的区块链([课件](/teachings/ecash-slides/ECash10-blockchain4.pdf))\
 
 
 - **实验课**\
@@ -28,6 +29,8 @@ title: Teaching
   实验说明[文档](/teachings/lab-files/2024-ECash_Lab2.pdf)
   3. 中心化数字货币与共识协议\
   实验说明[文档](/teachings/lab-files/2024-ECash_Lab3.pdf)
+  4. 共识协议与区块链\
+  实验说明[文档](/teachings/lab-files/2024-ECash_Lab4.pdf)
 
 - **参考资料**
 
