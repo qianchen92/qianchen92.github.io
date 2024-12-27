@@ -20,6 +20,8 @@ title: Teaching
   无签名共识协议的上界与下界([课件](/teachings/ecash-slides/ECash8-blockchain2.pdf))\
   共识协议与简单的区块链([课件](/teachings/ecash-slides/ECash9-blockchain3.pdf))\
   同步与半同步模型中的区块链([课件](/teachings/ecash-slides/ECash10-blockchain4.pdf))\
+  中本聪区块链([课件](/teachings/ecash-slides/ECash11-blockchain5.pdf))\
+  中本聪区块链安全性性质([课件](/teachings/ecash-slides/ECash12-blockchain6.pdf))
 
 
 - **实验课**\
