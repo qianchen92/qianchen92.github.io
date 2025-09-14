@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Backup and temp files
+*.bak
+*.tmp
+backup/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Images cache
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Personal files
+file/*.pdf
+file/*.md
+
+# Others
+*.swp
+*.swo
+
+# Ignore build output
+assets/css/*.css
+assets/js/*.min.js
