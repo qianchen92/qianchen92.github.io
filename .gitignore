@@ -42,3 +42,4 @@ file/*.md
 # Ignore build output
 assets/css/*.css
 assets/js/*.min.js
+mycom
