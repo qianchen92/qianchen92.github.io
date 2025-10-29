@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/ecash2024.html
+permalink: /teaching/ecash2025.html
 title: Teaching
 ---
 
