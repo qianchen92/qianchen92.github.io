@@ -12,4 +12,8 @@ title: Teaching
   基于规约的安全性证明([课件](/teachings/provesec-slides/2.Reduction.pdf)) \
   基于游戏的安全性证明([课件](/teachings/provesec-slides/3.Game.pdf))\
   基于模拟的安全性证明([课件](/teachings/provesec-slides/4.Simulation.pdf))
+- **形式化证明** \
+  形式化证明初步([课件](/teachings/provesec-slides/5.IntroFV.pdf)) \
+  等式理论([课件](/teachings/provesec-slides/6.EquationalTheory.pdf)) \
+  程序建模([课件](/teachings/provesec-slides/7.ProgramModel.pdf))
 <br>
