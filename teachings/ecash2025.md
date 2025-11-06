@@ -13,6 +13,10 @@ title: Teaching
   数字签名([课件](/teachings/ecash-slides/ECash3-Crypto2.pdf))\
   盲签名与加密算法([课件](/teachings/ecash-slides/ECash4-Crypto3.pdf)) (补充：Naor-Yung通用转化的CCA1证明 [pdf](/teachings/notes/ECash_note1_Naor_Yung.pdf))
 
+- **实验课**\
+  1. 哈希函数与零知识证明\
+  实验说明[文档](/teachings/lab-files/2025-ECash_Lab1.pdf)\
+  椭圆曲线库[ecc-pycrypto.zip](/teachings/lab-files/ecc-pycrypto-master.zip)
 
 - **参考资料**
 
