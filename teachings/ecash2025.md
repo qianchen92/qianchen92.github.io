@@ -12,11 +12,28 @@ title: Teaching
   哈希函数与零知识证明([课件](/teachings/ecash-slides/ECash2-Crypto1.pdf))\
   数字签名([课件](/teachings/ecash-slides/ECash3-Crypto2.pdf))\
   盲签名与加密算法([课件](/teachings/ecash-slides/ECash4-Crypto3.pdf)) (补充：Naor-Yung通用转化的CCA1证明 [pdf](/teachings/notes/ECash_note1_Naor_Yung.pdf))
+- **中心化数字货币** \
+  中心化数字货币构造([课件](/teachings/ecash-slides/ECash5-ECash.pdf))\
+  可传递数字货币([课件](/teachings/ecash-slides/ECash6-TECash.pdf))
+- **区块链与共识协议** \
+  拜占庭将军问题与Dolev-Strong协议([课件](/teachings/ecash-slides/ECash7-blockchain.pdf))\
+  无签名共识协议的上界与下界([课件](/teachings/ecash-slides/ECash8-blockchain2.pdf))\
+  共识协议与简单的区块链([课件](/teachings/ecash-slides/ECash9-blockchain3.pdf))\
+  同步与半同步模型中的区块链([课件](/teachings/ecash-slides/ECash10-blockchain4.pdf))\
+  中本聪区块链([课件](/teachings/ecash-slides/ECash11-blockchain5.pdf))\
+  中本聪区块链安全性性质([课件](/teachings/ecash-slides/ECash12-blockchain6.pdf))
+
 
 - **实验课**\
   1. 哈希函数与零知识证明\
-  实验说明[文档](/teachings/lab-files/2025-ECash_Lab1.pdf)\
+  实验说明[文档](/teachings/lab-files/2025-ECashBlockchain-Lab1.pdf)\
   椭圆曲线库[ecc-pycrypto.zip](/teachings/lab-files/ecc-pycrypto-master.zip)
+  2. 数字签名与加密\
+  实验说明[文档](/teachings/lab-files/2024-ECash_Lab2.pdf)
+  3. 中心化数字货币与共识协议\
+  实验说明[文档](/teachings/lab-files/2024-ECash_Lab3.pdf)
+  4. 共识协议与区块链\
+  实验说明[文档](/teachings/lab-files/2024-ECash_Lab4.pdf)
 
 - **参考资料**
 
