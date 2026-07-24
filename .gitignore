@@ -9,6 +9,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.bundle/
+vendor/bundle/
+Gemfile.lock
 
 # Backup and temp files
 *.bak

@@ -4,10 +4,12 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 28th Sep 2023&nbsp; 
+Latest Update: 25th Jul 2026&nbsp;
 
 ## Papers
 
+- **PUFF: Maximally Proactive Security for Free in Perfectly Secure MPC with Guaranteed Output Delivery** ([Full version](https://eprint.iacr.org/2026/509))\
+  with Jiarui Li, Mengzhen Zou, Guidong Li, and Guoyan Zhang (EUROCRYPT 2026)
 - **Generic Constructions of Master-Key KDM Secure Attribute-based Encryption**([Journal Version](https://link.springer.com/article/10.1007/s10623-023-01296-4)) \
   with Jiaxin Pan, Benedikt Wagner (DCC 2023)
 - **A Generic Transform from Multi-Round Interactive Proof to NIZK** ([Full version](https://eprint.iacr.org/2023/334))\
