@@ -4,10 +4,12 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Latest Update: 25th Jul 2026&nbsp;
+Latest Update: 21st Sep 2026&nbsp;
 
 ## Papers
 
+- **Adaptively-Secure Proxy Re-Encryption with Tight Security** ([Full version](https://eprint.iacr.org/2026/605))\
+  with Shuo Chen and Shuai Han (ASIACRYPT 2026, accepted)
 - **PUFF: Maximally Proactive Security for Free in Perfectly Secure MPC with Guaranteed Output Delivery** ([Full version](https://eprint.iacr.org/2026/509))\
   with Jiarui Li, Mengzhen Zou, Guidong Li, and Guoyan Zhang (EUROCRYPT 2026)
 - **Generic Constructions of Master-Key KDM Secure Attribute-based Encryption**([Journal Version](https://link.springer.com/article/10.1007/s10623-023-01296-4)) \
