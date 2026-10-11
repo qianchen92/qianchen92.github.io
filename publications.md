@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Latest Update: 21st Sep 2026&nbsp;
+Latest Update: 11th Oct 2026&nbsp;
 
 ## Papers
 
@@ -13,6 +13,14 @@ Latest Update: 21st Sep 2026&nbsp;
 - **Adaptively-Secure Proxy Re-Encryption with Tight Security**\
   **Chen Qian**<sup>&#42;</sup>, Shuo Chen, and Shuai Han\
   *ASIACRYPT 2026 (accepted)* · [Full version](https://eprint.iacr.org/2026/605)
+
+- **On the Tight Multi-User Security of SLH-DSA: A Generic Lifting Approach**\
+  Quan Yuan<sup>&#42;</sup>, **Chen Qian**<sup>&#42;</sup>, and Puwen Wei<sup>&#42;</sup>\
+  *Inscrypt 2026*
+
+- **Unlinkable Public-Key Signable Updatable Encryption from Pairings**\
+  Shuo Chen, Xin Li, Yao Jiang Galteland, and **Chen Qian**<sup>&#42;</sup>\
+  *Inscrypt 2026*
 
 - **PUFF: Maximally Proactive Security for Free in Perfectly Secure MPC with Guaranteed Output Delivery**\
   Jiarui Li, Mengzhen Zou, Guidong Li, Guoyan Zhang<sup>&#42;</sup>, and **Chen Qian**<sup>&#42;</sup>\
