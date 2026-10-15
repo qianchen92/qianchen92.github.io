@@ -28,15 +28,21 @@ Latest Update: 15th Oct 2026&nbsp;
   Shuo Chen, Xin Li, Yao Jiang Galteland, and **Chen Qian**<sup>&#42;</sup>\
   *Inscrypt 2026*
 
+### 2024
+
+- **Generic Constructions of Master-Key KDM Secure Attribute-based Encryption**\
+  Jiaxin Pan, **Chen Qian**<sup>&#42;</sup>, and Benedikt Wagner (alphabetic order)\
+  *DCC 2024* · [Journal Version](https://link.springer.com/article/10.1007/s10623-023-01296-4)
+
+- **Efficient and privacy-preserving outsourced unbounded inner product computation in cloud computing**\
+  Jiayun Yan, Jie Chen, **Chen Qian**, Anmin Fu, and Haifeng Qian\
+  *Journal of Systems Architecture 2024* · [Journal Version](https://doi.org/10.1016/j.sysarc.2024.103190)
+
 ### 2023
 
 - **A Generic Transform from Multi-Round Interactive Proof to NIZK**\
   Pierre-Alain Fouque, Adela Georgescu, **Chen Qian**<sup>&#42;</sup>, Adeline Roux-Langlois, and Weiqiang Wen<sup>&#42;</sup> (alphabetic order)\
   *PKC 2023* · [Full version](https://eprint.iacr.org/2023/334)
-
-- **Generic Constructions of Master-Key KDM Secure Attribute-based Encryption**\
-  Jiaxin Pan, **Chen Qian**<sup>&#42;</sup>, and Benedikt Wagner (alphabetic order)\
-  *DCC 2023* · [Journal Version](https://link.springer.com/article/10.1007/s10623-023-01296-4)
 
 ### 2022
 
