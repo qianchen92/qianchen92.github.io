@@ -12,13 +12,13 @@ Latest Update: 15th Oct 2026&nbsp;
 
 ### 2026
 
-- **Adaptively-Secure Proxy Re-Encryption with Tight Security**\
-  **Chen Qian**<sup>&#42;</sup>, Shuo Chen, and Shuai Han\
-  *ASIACRYPT 2026 (accepted)* · [Full version](https://eprint.iacr.org/2026/605)
-
 - **PUFF: Maximally Proactive Security for Free in Perfectly Secure MPC with Guaranteed Output Delivery**\
   Jiarui Li, Mengzhen Zou, Guidong Li, Guoyan Zhang<sup>&#42;</sup>, and **Chen Qian**<sup>&#42;</sup>\
   *EUROCRYPT 2026* · [Full version](https://eprint.iacr.org/2026/509)
+
+- **Adaptively-Secure Proxy Re-Encryption with Tight Security**\
+  **Chen Qian**<sup>&#42;</sup>, Shuo Chen, and Shuai Han\
+  *ASIACRYPT 2026 (accepted)* · [Full version](https://eprint.iacr.org/2026/605)
 
 - **On the Tight Multi-User Security of SLH-DSA: A Generic Lifting Approach**\
   Quan Yuan<sup>&#42;</sup>, **Chen Qian**<sup>&#42;</sup>, and Puwen Wei<sup>&#42;</sup>\
