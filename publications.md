@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Latest Update: 15th Oct 2026&nbsp;
+Latest Update: 20th Oct 2026&nbsp;
 
 ## Papers
 
@@ -21,12 +21,12 @@ Latest Update: 15th Oct 2026&nbsp;
   *ASIACRYPT 2026 (accepted)* · [Full version](https://eprint.iacr.org/2026/605)
 
 - **On the Tight Multi-User Security of SLH-DSA: A Generic Lifting Approach**\
-  Quan Yuan<sup>&#42;</sup>, **Chen Qian**<sup>&#42;</sup>, and Puwen Wei<sup>&#42;</sup>\
-  *Inscrypt 2026*
+  Quan Yuan, **Chen Qian**<sup>&#42;</sup>, and Puwen Wei\
+  *Inscrypt 2026 (Accepted)*
 
 - **Unlinkable Public-Key Signable Updatable Encryption from Pairings**\
   Shuo Chen, Xin Li, Yao Jiang Galteland, and **Chen Qian**<sup>&#42;</sup>\
-  *Inscrypt 2026*
+  *Inscrypt 2026 (Accepted)*
 
 ### 2024
 
